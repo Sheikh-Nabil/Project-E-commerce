@@ -15,7 +15,7 @@
 5. [End Note](#End-Note)
 
 <p align="center">
-  <img width="500" height="300" src="https://co-well.vn/wp-content/uploads/2019/12/why-ecommerce-is-important-with-business.png">
+  <img width="500" height="300" src="https://de.melchers-china.com/wp-content/uploads/2020/07/1-1.jpg">
 </p>
 
 ## Introduction: 
