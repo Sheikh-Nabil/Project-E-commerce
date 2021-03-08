@@ -117,7 +117,7 @@ Please follow the social media links of the author_
 <!-- icons with padding -->
 
 
-[1.1]: #1DA1F2 (google plus icon with padding)
+[1.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
