@@ -79,7 +79,7 @@ from time import sleep
 
 ---
 
-The process is quite simple. First ran the python script <span style="color:yellow">create_search_url.py</span> where we mentioned the website that will be scraped including how many pages we want to scrape. Which will automatically create the <span style="color:yellow">search_urls.text</span>file. In the next step we created the  <span style="color:yellow">product.py</span> python script which contains the exact direction of what information should be collected from the search url. All the data came as .json format and than used for further analysis. 
+The process is quite simple. First ran the python script <span style="color:yellow">create_search_url.py</span> where we mentioned the website that will be scraped including how many pages we want to scrape. Which will automatically create the <span style="color:yellow">search_urls.text</span> file. In the next step we created the  <span style="color:yellow">product.py</span> python script which contains the exact direction of what information should be collected from the search url. All the data came as .json format and than used for further analysis. 
 
 
 ## Data Cleaning:
