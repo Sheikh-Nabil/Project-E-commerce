@@ -3,7 +3,6 @@
 
 ## E-commerce product and sales data analysis  
 
-
 ## Table of Contents
 
 1. [Introduction](#Introduction)
@@ -11,6 +10,10 @@
 3. [Data Cleaning](#Data-Cleaning)
 4. [Data Storing](#Data-Storing)
 5. [End Note](#End-Note)
+
+<p align="center">
+  <img width="500" height="300" src="https://co-well.vn/wp-content/uploads/2019/12/why-ecommerce-is-important-with-business.png">
+</p>
 
 ## Introduction: 
 
