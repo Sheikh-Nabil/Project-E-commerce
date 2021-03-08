@@ -82,6 +82,9 @@ from time import sleep
 The process is quite simple. First ran the python script <span style="color:yellow">create_search_url.py</span> where we mentioned the website that will be scraped including how many pages we want to scrape. Which will automatically create the <span style="color:yellow">search_urls.text</span> file. In the next step we created the  <span style="color:yellow">product.py</span> python script which contains the exact direction of what information should be collected from the search url. All the data came as .json format and than used for further analysis. 
 
 
+
+
+
 ## Data Cleaning:
 
 Processing the scraped data took the longest time almost 70% of all the project time. The main reason behind is that scraped data comes with lots of noise in it. We worked with 8 different products including 
@@ -114,7 +117,7 @@ Please follow the social media links of the author_
 <!-- icons with padding -->
 
 
-[1.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[1.1]: #1DA1F2 (google plus icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
