@@ -43,8 +43,11 @@ Database Management, allows  to organize, store and retrieve data from a compute
 ## Used tools:
 
 ![](https://img.shields.io/badge/Extracting-Scraping-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Cleaning-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Visualization-Plotly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
