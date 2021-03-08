@@ -7,7 +7,7 @@
 ## Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Data Extracting](#Data-Extraction)
+2. [Data Extracting](#Data-Extracting)
 3. [Data Processing](#Data-Processing)
 4. [Data Storing](#Data-Storing)
 5. [End Note](#End-Note)
