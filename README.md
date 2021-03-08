@@ -40,6 +40,11 @@ Web scraping is data scraping used for extracting data from websites. The web sc
 Database Management, allows  to organize, store and retrieve data from a computer. Database Management can also describe, the data storage, operations and security practices of a Database Administrator (DBA), throughout the life cycle of the data. Managing a database involves designing, implementing and supporting stored data, to maximize its value.
 </details>
 
+
+<p align="left">
+<a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0005.gif" border="0" alt="animated-wine-image-0005" /></a><br></pre>
+</details>
+
 ## Used tools:
 
 ![](https://img.shields.io/badge/Extracting-Scraping-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
