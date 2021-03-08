@@ -1,7 +1,10 @@
-# web-scraping
+# E-commerce! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## E-commerce product and sales data analysis  
+
+
+
+## Product and sales data analysis  
 
 ## Table of Contents
 
@@ -36,6 +39,14 @@ Web scraping is data scraping used for extracting data from websites. The web sc
 <br>
 Database Management, allows  to organize, store and retrieve data from a computer. Database Management can also describe, the data storage, operations and security practices of a Database Administrator (DBA), throughout the life cycle of the data. Managing a database involves designing, implementing and supporting stored data, to maximize its value.
 </details>
+
+# Used tools:
+
+![](https://img.shields.io/badge/Extracting-Scraping-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cleaning-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DBMS-MySQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visualization-Plotly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 ## Legal Issues:
 As the data extracted here was for solely academic purpose and no business intention was not behiind it this scraping is until this point completely legal. 
@@ -73,3 +84,44 @@ Processing the scraped data took the longest time almost 70% of all the project 
 ## Data Storing:
 
 Structural Query Language or SQL is used in this project for storing the cleaned data. 
+
+
+## End Note:
+
+Please follow the social media links of the author_
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+
+[1.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+
+[1.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+
+[1]: https://myaccount.google.com/profile
+[2]: https://github.com/Sheikh-Nabil
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<a href="#top">Back to top</a>
