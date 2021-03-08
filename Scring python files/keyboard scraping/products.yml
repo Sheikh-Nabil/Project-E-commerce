@@ -1,0 +1,188 @@
+# name:
+#     css: '#productTitle'
+#     type: Text
+
+# # product_tech_spec:
+# #     css: '#productDetails_techSpec_section_1 tr'
+# #     multiple: true
+# #     type: Text
+# #     children:
+# #         info:
+# #             css: th
+# #             type: Text
+# #         value:
+# #             css: td
+# #             type: Text
+
+# product_summary:
+#     css: '#productDetails_detailBullets_sections1 tr'
+#     multiple: true
+#     type: Text
+#     children:
+#         info:
+#             css: th
+#             type: Text
+#         value:
+#             css: td
+#             type: Text            
+
+
+
+# # product_addl_info:
+# #     css: '#productDetails_techSpec_section_1  tr'
+# #     multiple: true
+# #     type: Text
+# #     children:
+# #         info:
+# #             css: th
+# #             type: Text
+# #         value:
+# #             css: td
+# #             type: Text
+
+
+# seller:
+#     css: '#sellerProfileTriggerId'
+#     type: Text
+
+# seller_link:
+#     css: '#sellerProfileTriggerId'
+#     type: Link
+    
+# freq_bought:
+#     css: '#sims-fbt-form .a-size-base.a-link-normal'
+#     type: Text
+
+# freq_bought_link:
+#     css: '#sims-fbt-form .a-size-base.a-link-normal'
+#     type: Link
+
+# link_to_all_reviews:
+#     css: 'div.card-padding a.a-link-emphasis'
+#     type: Link
+name:
+    css: '#productTitle'
+    type: Text
+
+
+# screen_display_size:
+#     css: '#productDetails_techSpec_section_1 tr:nth-child(1) td'
+#     type: Text
+
+
+# max_screen_res:
+#     css: '#productDetails_techSpec_section_1 tr+ tr td'
+#     type: Text
+
+
+# Brand:
+#     css: '#productDetails_techSpec_section_2 tr:nth-child(1) td'
+#     type: Text
+
+
+# item_model_no:
+#     css: '#productDetails_techSpec_section_2 tr:nth-child(2) td'
+#     type: Text
+
+
+# item_weight:
+#     css: '#productDetails_techSpec_section_2 tr:nth-child(3) td'
+#     type: Text
+
+
+
+# Product_dimensions:
+#     css: '#productDetails_techSpec_section_2 tr:nth-child(4) td'
+#     type: Text
+
+
+# Computer_Memory_Type:
+#     css: '#productDetails_techSpec_section_2 tr:nth-child(8) td'
+#     type: Text 
+
+
+# ASIN:
+#     css: '#productDetails_techSpec_section_2 tr:nth-child(10) td'
+#     type: Text 
+
+
+
+# Computer_Memory_Type:
+#     css: '#productDetails_techSpec_section_1 tr+ tr td'
+#     type: Text 
+
+# ratings:
+#     css: '.a-star-4-5'
+#     type: Text
+
+# ratings_count:
+#     css: '#acrCustomerReviewText'
+#     type: Text
+
+
+# price:
+#     css: '#priceblock_ourprice'
+#     type: Text
+
+
+
+    
+product_summary:
+    css: '#productDetails_techSpec_section_1 tr'
+    multiple: true
+    type: Text
+    children:
+        info:
+            css: th
+            type: Text
+        value:
+            css: td
+            type: Text
+
+
+product_tech_details:
+    css: '#productDetails_techSpec_section_2 tr'
+    multiple: true
+    type: Text
+    children:
+        info:
+            css: th
+            type: Text
+        value:
+            css: td
+            type: Text
+
+
+product_addl_info:
+    css: '#productDetails_detailBullets_sections1 tr'
+    multiple: true
+    type: Text
+    children:
+        info:
+            css: th
+            type: Text
+        value:
+            css: td
+            type: Text
+
+
+seller:
+    css: '#sellerProfileTriggerId'
+    type: Text
+
+seller_link:
+    css: '#sellerProfileTriggerId'
+    type: Link
+    
+freq_bought:
+    css: '#sims-fbt-form .a-size-base.a-link-normal'
+    type: Text
+
+freq_bought_link:
+    css: '#sims-fbt-form .a-size-base.a-link-normal'
+    type: Link
+
+link_to_all_reviews:
+    css: 'div.card-padding a.a-link-emphasis'
+    type: Link
+

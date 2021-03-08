@@ -8,7 +8,7 @@
 
 1. [Introduction](#Introduction)
 2. [Data Extracting](#Data-Extracting)
-3. [Data Processing](#Data-Processing)
+3. [Data Cleaning](#Data-Cleaning)
 4. [Data Storing](#Data-Storing)
 5. [End Note](#End-Note)
 
@@ -57,3 +57,16 @@ from time import sleep
 
 ---
 
+The process is quite simple. First ran the python script [create_search_url.py] where we mentioned the website that will be scraped including how many pages we want to scrape. Which will automatically create the [search_urls.text] file. In the next step we created the [product.py] python script which contains the exact direction of what information should be collected from the search url. All the data came as .json format and than used for further analysis. 
+
+
+## Data Cleaning:
+
+Processing the scraped data took the longest time almost 70% of all the project time. The main reason behind is that scraped data comes with lots of noise in it. We worked with 8 different products including 
+
+
+
+
+## Data Storing:
+
+Structural Query Language or SQL is used in this project for storing the cleaned data. 
