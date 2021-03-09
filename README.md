@@ -3,7 +3,6 @@
 
 
 
-
 ## Product and sales data analysis  
 
 ## Table of Contents
@@ -39,6 +38,8 @@ Web scraping is data scraping used for extracting data from websites. The web sc
 <br>
 Database Management, allows  to organize, store and retrieve data from a computer. Database Management can also describe, the data storage, operations and security practices of a Database Administrator (DBA), throughout the life cycle of the data. Managing a database involves designing, implementing and supporting stored data, to maximize its value.
 </details>
+
+<span style="color:red"> **THIS REPOSITORY IS  UNDER WORK, Please have a look at the finished work** </span>
 
 
 <p align="left">
@@ -95,6 +96,10 @@ Processing the scraped data took the longest time almost 70% of all the project 
 ## Data Storing:
 
 Structural Query Language or SQL is used in this project for storing the cleaned data. 
+
+
+
+
 
 
 
